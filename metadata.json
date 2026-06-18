@@ -1,0 +1,6 @@
+{
+  "name": "GitHub Project Mentor AI",
+  "description": "Helps students discover and design high-quality, publication-worthy project ideas tailored to their skills, career goals, and time commitment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
